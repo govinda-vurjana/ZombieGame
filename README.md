@@ -1,6 +1,10 @@
 # Zombie Shooter AI using Deep Reinforcement Learning
 
 A project by [Govinda Vurjana](https://github.com/govinda-vurjana)
+<img width="1596" height="1064" alt="image" src="https://github.com/user-attachments/assets/ec584e61-18ca-48d7-8bd1-b8bb4b230336" />
+<img width="1598" height="1064" alt="image" src="https://github.com/user-attachments/assets/1f7249f0-b7aa-46a0-bae6-6a3be023f68c" />
+
+
 
 This project implements a Zombie Shooter game where an AI agent learns to play using Double Deep Q-Network (DDQN) reinforcement learning. The agent learns to navigate the environment, shoot zombies, and survive as long as possible. The environment is designed following OpenAI Gym interface principles, making it easy to understand and extend for reinforcement learning experiments.
 
